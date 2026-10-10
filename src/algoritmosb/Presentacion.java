@@ -10,6 +10,8 @@ public class Presentacion {
         System.out.println("Edad: 29 años");
         System.out.println("Genero(M=Masculino, F=Femenino): M");
         System.out.println("Direccion: Guastatoya, El Progreso.");
+        System.out.println("Ingeniero en Sistemas de Informacion");
+        System.out.println("Universidad Mariano Galvez");
         System.out.println("----------------------------------------");
     }
     
